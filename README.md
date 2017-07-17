@@ -20,6 +20,7 @@ Let's use the [**Markup language**]() article on Wikipedia that includes:
 Original example in Wikipedia markup:
 
 ``` text
+{% raw %}
 A '''markup language''' is a system for [[annotation|annotating]] a [[document]] in a way that is [[Syntax (logic)|syntactically
 distinguishable]] from the text.<ref>{{MerriamWebsterDictionary|markup language}}</ref> The idea and terminology evolved from the
 "marking up" of paper manuscripts, i.e., the revision instructions by editors, traditionally written with a [[blue pencil (editing)|blue
@@ -52,6 +53,7 @@ Markup|website=www.tbray.org/ongoing|date=9 April 2003|access-date=9 July 2015}}
 effect. Such markup is usually hidden from human users, even authors or editors.
 
 ...
+{% endraw %}
 ```
 
 (Source: [en.wikipedia.org/wiki/Markup_language](https://en.wikipedia.org/w/index.php?title=Markup_language&action=raw))
