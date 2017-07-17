@@ -7,7 +7,7 @@ _The TodoMVC Showcase for Writers - Helping You Select Your Markup & Markdown St
 
 ## Showcase #1 - Wikipedia Article 
 
-Let's use the [**Markup language**]() article on Wikipedia that includes:
+Let's use the [**Markup language**](https://en.wikipedia.org/wiki/Markup_language) article on Wikipedia that includes:
 
 - headings
 - italic (emphasis) and bold (strong emphasis)
@@ -17,7 +17,7 @@ Let's use the [**Markup language**]() article on Wikipedia that includes:
 - definition lists
 - and more.
 
-Original example in Wikipedia markup:
+Original example in Wikipedia markup (also known as wiki text):
 
 ``` text
 {% raw %}
