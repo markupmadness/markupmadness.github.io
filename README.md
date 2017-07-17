@@ -77,7 +77,10 @@ More Markup & Markdown Madness Samples. Compare with \_\_\_\_\_.
 </> [**LaTeX Samples**](https://github.com/markupmadness/markupmadness/tree/master/latex) #latex #tex
 
 
-#### Add Your Sample!
+
+### Add Your Sample!
+
+More markup and markdown formats always welcome. Add your sample to the [`/markupmadness`](https://github.com/markupmadness/markupmadness) repo. Thanks!
 
 
 ## Meta
