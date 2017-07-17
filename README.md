@@ -1,6 +1,6 @@
 [Markup & Markdown Madness @ GitHub](https://github.com/markupmadness)
 
-# Markup & Markdown Madness 
+# Markup & Markdown Madness! 
 
 _The TodoMVC Showcase for Writers - Helping You Select Your Markup & Markdown Style_
 
