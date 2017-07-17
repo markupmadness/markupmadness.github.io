@@ -11,7 +11,7 @@ Let's use the [**Markup language**]() article on Wikipedia that includes:
 
 - headings
 - italic (emphasis) and bold (strong emphasis)
-- inline code,
+- inline code
 - inline footnotes (references)
 - page links and (external) web links
 - definition lists
@@ -58,7 +58,7 @@ effect. Such markup is usually hidden from human users, even authors or editors.
 
 (Source: [en.wikipedia.org/wiki/Markup_language](https://en.wikipedia.org/w/index.php?title=Markup_language&action=raw))
 
-**More Markup & Markdown Madness Samples**
+More Markup & Markdown Madness Samples. Compare with \_\_\_\_\_.
 
 
 ### "Light" Markup
