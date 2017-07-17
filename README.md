@@ -58,24 +58,24 @@ effect. Such markup is usually hidden from human users, even authors or editors.
 
 **More Markup & Markdown Madness Samples**
 
+
 ### "Light" Markup
 
+</> [**Kramdown Samples**](https://github.com/markupmadness/markupmadness/tree/master/kramdown) #markdown
 
-Kramdown  - markdown flavor with footnotes, definition lists, and more extensions)
+</> [**Wikipedia Markup Samples**](https://github.com/markupmadness/markupmadness/tree/master/wikipedia) #wikipedia
 
-Text with Instructions (.texti)
+</> [**Text with Instructions (.texti) Samples**](https://github.com/markupmadness/markupmadness/tree/master/texti) #markdown #wikipedia
 
 
 ### "Classic" Markup
 
-LaTeX
+</> [**Hypertext Markup Language (HTML) Samples**](https://github.com/markupmadness/markupmadness/tree/master/html) #html
 
-Hypertext markup language (HTML)
+</> [**LaTeX Samples**](https://github.com/markupmadness/markupmadness/tree/master/latex) #latex #tex
 
 
-
-### Add Your Sample!
-
+#### Add Your Sample!
 
 
 ## Meta
